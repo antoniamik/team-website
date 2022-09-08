@@ -14,3 +14,10 @@ h1 {
     margin-left: 07%;
     padding-top: 1.5cm;
 }
+
+h2 {
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}

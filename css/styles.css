@@ -1,24 +1,15 @@
 h1 {
-    color: black;
-    text-align: center;
-    font-family: fantasy;
-    font-size: 60px;
-}
-
-.carousel-item img {
-    max-width: 1300px;
-    max-height: 550px;
-}
-<<<<<<< HEAD
-
-.center {
-    margin-left: 07%;
-}
-=======
-h2 {
   color: black;
   text-align: center;
   font-family: fantasy;
   font-size: 60px;
 }
->>>>>>> 49cd084ada39e4979caed5fe8a7483ef13b39d12
+
+.carousel-item img {
+  max-width: 1300px;
+  max-height: 550px;
+}
+
+.center {
+  margin-left: 08%;
+}

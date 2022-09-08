@@ -21,3 +21,8 @@ h2 {
     font-family: fantasy;
     font-size: 60px;
 }
+
+form {
+    margin-left: 20%;
+    margin-right: 20%;
+}

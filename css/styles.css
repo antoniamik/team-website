@@ -1,22 +1,16 @@
 h1 {
-  color: black;
-  text-align: center;
-  font-family: fantasy;
-  font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
 }
 
 .carousel-item img {
-  max-width: 1300px;
-  max-height: 550px;
+    max-width: 1000px;
+    max-height: 500px;
 }
 
 .center {
-  margin-left: 08%;
-}
-
-h2 {
-  color: black;
-  text-align: center;
-  font-family: fantasy;
-  font-size: 60px;
+    margin-left: 07%;
+    padding-top: 1.5cm;
 }

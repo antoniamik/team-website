@@ -13,3 +13,10 @@ h1 {
 .center {
   margin-left: 08%;
 }
+
+h2 {
+  color: black;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 60px;
+}

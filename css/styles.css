@@ -2,7 +2,14 @@
   color: black;
   text-align: center;
   font-family: fantasy;
+}
+
+#font {
   font-size: 60px;
+}
+
+#size {
+  font-size: 65px;
 }
 
 .carousel-item img {
@@ -27,6 +34,10 @@ form {
 .paragraph {
   margin-left: 07%;
   margin-right: 20%;
+}
+
+#padding {
+  padding-bottom: 10%;
 }
 
 #text {

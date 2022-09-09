@@ -43,6 +43,11 @@ form {
 #text {
     padding-top: 1cm;
     padding-bottom: 1cm;
-    margin-left: 05%;
-    margin-right: 10%;
+    margin-left: 07%;
+    margin-right: 20%;
+}
+
+p {
+    margin-left: 07%;
+    margin-right: 20%;
 }
